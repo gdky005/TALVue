@@ -1,7 +1,7 @@
 <template>
   <div style="margin-top: 60px;text-align: center;">
 
-    自动发布5
+    自动发布6
 
     <hr style="height:1px;border:none;border-top:1px dashed #0066CC; margin-left: 200px; margin-right: 200px"/>
 
