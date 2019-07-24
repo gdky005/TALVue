@@ -1,27 +1,76 @@
 <template>
   <div style="margin-top: 60px;text-align: center;">
 
-    自动发布10
+    <h1>Flutter & 901项目</h1>
+    <hr style="height:1px;border:none;border-top:1px dashed #0066CC; margin-left: 100px; margin-right: 100px"/>
 
-    <hr style="height:1px;border:none;border-top:1px dashed #0066CC; margin-left: 200px; margin-right: 200px"/>
-
-    <h1>Android</h1>
-
-    <p><a href="https://github.com/Blankj/AndroidUtilCode/blob/master/utilcode/README-CN.md" target="view_window">
-      <el-button size="mini" type="primary" round>Android 常用工具类查询</el-button>
-    </a></p>
+    <div style="margin-left: 150px;text-align: left">
 
 
-    <hr style="height:1px;border:none;border-top:1px dashed #0066CC; margin-left: 200px; margin-right: 200px"/>
+      <el-row>
 
-    <p>
-      <router-link to="Git"  arget="view_window">
-      <el-button size="mini" type="primary" round>Git基本操作指南</el-button></router-link></p>
+        <el-col :span="12"><div class="grid-content bg-purple-light">
 
-    <hr style="height:1px;border:none;border-top:1px dashed #0066CC; margin-left: 200px; margin-right: 200px"/>
+          <el-button type="text">需求相关</el-button>
+
+          <p><a href="https://lanhuapp.com/web/#/item/project/board?pid=fec5f440-b1cf-4b91-a697-7a261a82f861" target="view_window">
+            <el-button size="mini" type="primary" round icon="el-icon-mobile-phone">蓝湖 UI</el-button>
+          </a></p>
+
+          <p><a href="https://lanhuapp.com/url/y2Wrf-cPeuw" target="view_window">
+            <el-button size="mini" type="primary" round icon="el-icon-mobile-phone">蓝湖 DRD</el-button>
+          </a></p>
+
+          <p><a href="https://wiki.zhiyinlou.com/pages/viewpage.action?pageId=22238068" target="view_window">
+            <el-button size="mini" type="primary" round icon="el-icon-document">V1.0版本 产品文档</el-button>
+          </a></p>
+
+          <p><a href="http://yapi.test-dahai.com/project/156/interface/api" target="view_window">
+            <el-button size="mini" type="primary" round icon="el-icon-view">北极星服务端接口(Mock)</el-button>
+          </a></p>
+
+        </div></el-col>
+
+        <el-col :span="12"><div class="grid-content bg-purple">
+
+          <el-button type="text">技术方案</el-button>
 
 
-    <h1>时间戳</h1>
+          <p><a href="https://wiki.zhiyinlou.com/display/businessDahai/Flutter" target="view_window">
+            <el-button size="mini" type="primary" round icon="el-icon-search">大海 Flutter 技术方案汇总</el-button>
+          </a></p>
+
+        </div></el-col>
+
+      </el-row>
+
+
+
+
+
+
+    </div>
+
+
+    <!--<hr style="height:1px;border:none;border-top:1px dashed #0066CC; margin-left: 100px; margin-right: 100px"/>-->
+    <!--自动发布11-->
+    <hr style="height:1px;border:none;border-top:1px dashed #0066CC; margin-left: 100px; margin-right: 100px; margin-top: 100px"/>
+
+
+    <!--<h1>Android</h1>-->
+
+    <!--<p><a href="https://github.com/Blankj/AndroidUtilCode/blob/master/utilcode/README-CN.md" target="view_window">-->
+      <!--<el-button size="mini" type="primary" round>Android 常用工具类查询</el-button>-->
+    <!--</a></p>-->
+
+    <!--<p>-->
+      <!--<router-link to="Git"  arget="view_window">-->
+      <!--<el-button size="mini" type="primary" round>Git基本操作指南</el-button></router-link></p>-->
+
+    <!--<hr style="height:1px;border:none;border-top:1px dashed #0066CC; margin-left: 200px; margin-right: 200px"/>-->
+
+
+    <h1 style="margin-top: 100px">时间戳</h1>
 
 
     <div>

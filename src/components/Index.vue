@@ -3,7 +3,7 @@
 
 
     <el-container style="height: 1000px;">
-      <el-aside width="300px">
+      <el-aside width="15%">
 
         <img src="../assets/logo.png"/>
 
