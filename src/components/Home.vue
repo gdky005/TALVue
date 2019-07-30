@@ -25,6 +25,10 @@
             <el-button size="mini" type="primary" round icon="el-icon-document">V1.0版本 产品文档</el-button>
           </a></p>
 
+          <p><a href="https://lanhuapp.com/url/TgwQ6-aqeiE" target="view_window">
+            <el-button size="mini" type="primary" round icon="el-icon-mobile-phone">蓝湖 课堂 PRD 原型图</el-button>
+          </a></p>
+
           <p><a href="http://yapi.test-dahai.com/project/156/interface/api" target="view_window">
             <el-button size="mini" type="primary" round icon="el-icon-view">北极星服务端接口(Mock)</el-button>
           </a></p>
